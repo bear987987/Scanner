@@ -1,4 +1,1 @@
-"# Gomoku" 
-"# Gomoku" 
-"# Gomoku" 
 "# Scanner" 
