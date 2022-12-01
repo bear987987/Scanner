@@ -1,0 +1,33 @@
+Total: 52 tokens
+
+Reserved word: 5
+int (x1)
+if (x2)
+else (x1)
+for (x1)
+Library name: 1
+<stdio.h>
+Comment: 0
+Identifier: 0
+Constant: 
+Operator: 16
++ (x3)
+- (x1)
+* (x1)
+/ (x1)
+= (x10)
+Comparator: 2
+< (x1)
+> (x1)
+Bracket: 6
+( (x3)
+) (x3)
+Format specifier: 2
+%d (x2)
+Pointer: 3
+Address: 2
+Punctuation: 21
+, (x6)
+; (x13)
+" (x2)
+Printed token: 
